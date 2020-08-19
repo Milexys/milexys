@@ -1,0 +1,14 @@
+{
+  "es": [
+    {
+      "header": ["Inicio", "Habilidades", "Proyectos", "Contacto"],
+      "Home": "I’m a computer engineer specialized in front-end development, with great performance in technologies like HTML5, JavaScript, CSS3 and ReactJS's library. I'd had the opportunity to create some projects and develop interactive pages,  I  also work based on the agile methodology improving the speed and efficiency of each project. I'm a hard worker, committed and self learner."
+    }
+  ],
+  "en": [
+    {
+      "header": ["Home", "Skills", "Projects", "Contact"],
+      "Home": "Soy un ingeniero informático especializado en desarrollo front-end, con un gran desempeño en tecnologías como HTML5, JavaScript, CSS3 y la biblioteca de ReactJS. Tuve la oportunidad de crear algunos proyectos y desarrollar páginas interactivas, también trabajo en base a la metodología ágil mejorando la velocidad y eficiencia de cada proyecto. Soy un trabajador, comprometido y autodidacta."
+    }
+  ]
+}

@@ -1,9 +1,14 @@
-import React from 'react'
+import React, { useContext } from 'react'
+import { LanguageContext } from '../../context/index'
 
-const Header = () => (
-  <header>
-    <div></div>
-  </header>
-)
+const Header = () => {
+  const { language, setLanguage } = useContext(LanguageContext)
+
+  return (
+    <header>
+      <div></div>
+    </header>
+  )
+}
 
 export default Header
